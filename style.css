@@ -380,7 +380,7 @@ background-color: #FED7C6;
 /* COPYWRITING ASSIGNMENT 2 IMAGE */
 .Copywriting-Assignment-2-image {
  display: block;
-  margin-left: 5px;
+  margin-left: 25px;
   margin-right: 5px;
   width: 550px;
   height: 350px;
@@ -394,7 +394,7 @@ background-color: #FED7C6;
   font-size: 17px;
   font-family: Arial, Helvetica, sans-serif;
   text-align: left;
-  margin-left: 5px;
+  margin-left: 25px;
   margin-top: 15px;
   line-height: 33px;
 }
